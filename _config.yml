@@ -1,4 +1,10 @@
 # Based on https://github.com/jekyll/minima/blob/master/_config.yml
+author: Nikita Karetnikov
+email: nikita@karetnikov.org
+# social links
+twitter_username: karetnikovn
+github_username:  nkaretnikov
+
 theme: minima
 
 show_excerpts: false  # set to true to show excerpts on the homepage
